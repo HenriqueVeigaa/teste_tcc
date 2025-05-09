@@ -1,5 +1,5 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import User from '../../app/User';
+import User from '../app/Profile';
 
 const Tab = createBottomTabNavigator ();
 
